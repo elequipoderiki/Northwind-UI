@@ -9,7 +9,7 @@ in visual studio code.
 
 URL
 
-  https://northwindwebg2.web.app/supplier
+  https://northwindwebg2.web.app
   
         email:supplier@company.com
 			
